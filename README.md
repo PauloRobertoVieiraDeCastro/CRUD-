@@ -1,2 +1,2 @@
-# CRUD-
-App em Tkinter CRUD destinado ao controle de amostras de petróleo
+# CRUD
+App em Tkinter CRUD destinado ao controle de amostras de petróleo. O banco de dados é feito em sqlite e a interface gráfica feita em Python. O usuário pode criar amostras de petróleo/condensado/C5+, dando nome fantasia, tipo, data de entrada e peso e volume, sendo estes dois últimos de forma dinâmica. Também pode consultar as amostras, atualizar suas características e remover do banco de dados. Há opções de visualização em dashboard, impressão de relatório e de todo o banco de dados em formato .xlsx (MS Excel). A contagem das amostras e subamostras é dinâmica e automática.
